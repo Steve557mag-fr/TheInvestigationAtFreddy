@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"F:/BIBLIOTHEQUE/Documents/GitHub/TheInvestigationAtFreddy/Content/Blueprints/Player/PC_Player.uasset",
+				"F:/BIBLIOTHEQUE/Documents/GitHub/TheInvestigationAtFreddy/Content/Blueprints/Player/BP_Player.uasset",
+				"F:/BIBLIOTHEQUE/Documents/GitHub/TheInvestigationAtFreddy/Content/Blueprints/GameModes/GM_BaseMode.uasset",
+				"F:/BIBLIOTHEQUE/Documents/GitHub/TheInvestigationAtFreddy/Content/Models/A_Wall.uasset",
+				"F:/BIBLIOTHEQUE/Documents/GitHub/TheInvestigationAtFreddy/Content/Levels/LV_Game.umap",
 				"C:/Users/colin/Documents/GitHub/TheInvestigationAtFreddy/Content/Levels/LV_Game.umap",
 				"C:/Users/colin/Documents/GitHub/TheInvestigationAtFreddy/Content/Models/AA_Wall.uasset",
 				"C:/Users/colin/Documents/GitHub/TheInvestigationAtFreddy/Content/Blueprints/Player/BP_Player.uasset",
